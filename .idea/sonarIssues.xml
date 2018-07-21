@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cwiczenia_spoza_kursu/src/pl/samouczekprogramisty/JVM_przeciazenie_pamieci/OutOfMemmoryError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cwiczenia_spoza_kursu/src/pl/samouczekprogramisty/system_binarny.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cwiczenia_spoza_kursu/src/pl/samouczekprogramisty/system_binarny/IntegerToBinaryNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cwiczenia_spoza_kursu/src/pl/samouczekprogramisty/system_binarny/IntegerToBinaryNumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cwiczenia_spoza_kursu/src/pl/samouczekprogramisty/system_binarny/RunnerIntegerToBinaryNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cwiczenia_spoza_kursu/src/pl/samouczekprogramisty/testy/IntegerToBinaryNumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Palindrom/IfPalindrom2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Palindrom/Palindrom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Palindrom/PalindromTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Palindrom/RunnerPalindrom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Test/PalindromTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
