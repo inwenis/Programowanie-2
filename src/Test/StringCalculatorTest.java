@@ -32,17 +32,25 @@ public class StringCalculatorTest {
     }
 
     @Test
-    public void AnyNumbersInInputReturnTheirSum() {
+    public void anyNumbersInInputReturnTheirSum() {
         String input = "1,2,3,4";
         int result = Calc.Sum(input);
         Assert.assertEquals(10, result);
     }
 
     @Test
-    public void NewLineSeparatorInInputReturnTheirSum() {
+    public void newLineSeparatorInInputReturnTheirSum() {
         String input = "1\n2,4";
         int result = Calc.Sum(input);
         Assert.assertEquals(7, result);
     }
+
+    @Test
+    public void userCanDefineOwnSeparator() {
+        String input = "//;\n1;8";
+        int result = Calc.Sum(input);
+        Assert.assertEquals(9, result);
+    }
+    //aby zdefiniować separator w stringu wejściowym będzie coś takiego: "//;\n1;2" (suma 3)
 
 }
