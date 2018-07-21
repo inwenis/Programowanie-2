@@ -18,8 +18,8 @@ public class Calc {
             String inputWithoutSeparator = input;
 
             if (input.startsWith("//")) {
-                separator = input.substring(2, 3);
-                inputWithoutSeparator = input.replaceFirst("//"+separator+"\n","")
+                separator = input.substring(input.indexOf("[") + 1, input.indexOf("]"));
+                inputWithoutSeparator = input.replaceFirst("//\\[" + separator + "\\]\n","")
                         .replaceAll(separator, ",");
             }
 

@@ -78,5 +78,12 @@ public class StringCalculatorTest {
         Assert.assertEquals(1014, result);
     }
 
+    @Test
+    public void customSeparatorMoreThanOneChar() {
+        String input = "//[bla]\n16bla8bla6bla1002";
+        int result = Calc.Sum(input);
+        Assert.assertEquals(30, result);
+    }
+
 
 }
