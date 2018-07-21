@@ -39,7 +39,9 @@ public class Calc {
 
             sum = Integer.parseInt(inputTab[0]);
             for (int i = 1; i < inputTab.length; i++) {
-                sum += Integer.parseInt(inputTab[i]);
+                if (Integer.parseInt(inputTab[i])<1000){
+                    sum += Integer.parseInt(inputTab[i]);
+                }
             }
             return sum;
         }

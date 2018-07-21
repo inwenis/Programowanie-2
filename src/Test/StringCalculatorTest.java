@@ -70,4 +70,13 @@ public class StringCalculatorTest {
             assertEquals(e.getMessage(), "Arugment cannot be a negative number. Negative numbers detected: [-1, -9, -5]");
         }
     }
+
+    @Test //program zlicza wszyskto, ale w wyniku zwraca tyko max 3 ostatnie liczby
+    public void ignoreBiggerThanThousand() {
+        String input = "//;\n999;9;6;1002";
+        int result = Calc.Sum(input);
+        Assert.assertEquals(1014, result);
+    }
+
+
 }
