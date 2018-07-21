@@ -15,15 +15,24 @@ public class Calc {
         else {
             String separator;
             String inputWithoutNewLine;
-            String inputWithoutSeparator = input;
+            String properInput = input;
 
-            if (input.startsWith("//")) {
-                separator = input.substring(input.indexOf("[") + 1, input.indexOf("]"));
-                inputWithoutSeparator = input.replaceFirst("//\\[" + separator + "\\]\n","")
+            if (input.startsWith("//[")) {
+                String listOfSeparators = input.substring(input.indexOf("//")+2, input.indexOf("\n"));
+                properInput = input.substring(input.indexOf("\n")+1, input.length());
+                while(!listOfSeparators.isEmpty()){
+                    separator = listOfSeparators.substring(listOfSeparators.indexOf("[")+1, listOfSeparators.indexOf("]"));
+                    properInput = properInput.replaceAll(separator, ",");
+                    listOfSeparators = listOfSeparators.replaceFirst("\\[" + separator + "]","");
+                }
+
+            } else if (input.startsWith("//")){
+                separator = input.substring(2,3);
+                properInput = input.replaceFirst("//" + separator + "\n","")
                         .replaceAll(separator, ",");
             }
 
-            inputWithoutNewLine = inputWithoutSeparator.replaceAll("\n", ",");
+            inputWithoutNewLine = properInput.replaceAll("\n", ",");
             inputTab = inputWithoutNewLine.split(",");
 
 

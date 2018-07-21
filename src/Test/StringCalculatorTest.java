@@ -85,5 +85,10 @@ public class StringCalculatorTest {
         Assert.assertEquals(30, result);
     }
 
-
+    @Test
+    public void customSeparatorMoreThanOneCombination() {
+        String input = "//[d1][d2]\n5d16d24";
+        int result = Calc.Sum(input);
+        Assert.assertEquals(15, result);
+    }
 }
