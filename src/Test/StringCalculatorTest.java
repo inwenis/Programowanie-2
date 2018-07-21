@@ -38,4 +38,11 @@ public class StringCalculatorTest {
         Assert.assertEquals(10, result);
     }
 
+    @Test
+    public void NewLineSeparatorInInputReturnTheirSum() {
+        String input = "1\n2,4";
+        int result = Calc.Sum(input);
+        Assert.assertEquals(7, result);
+    }
+
 }

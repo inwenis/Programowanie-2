@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbe8825-194b-4c00-be02-a611581cd9fe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/Palindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/RunnerPalindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/RunnerPalindrom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" afterDir="false" />
     </list>
@@ -38,37 +33,19 @@
         <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Palindrom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Palindrom/Palindrom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="290">
+              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -97,8 +74,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/StringCalcuclator/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/StringCalcuclator/StringCalculator.java" />
-        <option value="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" />
         <option value="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" />
       </list>
     </option>
   </component>
@@ -191,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringCalculatorTest">
+  <component name="RunManager" selected="JUnit.StringCalculatorTest.NewLineSeparatorInInputReturnTheirSum">
     <configuration name="RunnerPalindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Palindrom.RunnerPalindrom" />
       <module name="Programowanie_2" />
@@ -345,8 +322,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StringCalculatorTest" />
         <item itemvalue="JUnit.StringCalculatorTest.NewLineSeparatorInInputReturnTheirSum" />
+        <item itemvalue="JUnit.StringCalculatorTest" />
         <item itemvalue="JUnit.StringCalculatorTest.AnyNumbersInInputReturnTheirSum" />
         <item itemvalue="JUnit.StringCalculatorTest.oneNumberInInputReturnsNumber" />
         <item itemvalue="Application.RunnerPalindrom" />
@@ -364,14 +341,11 @@
       <option name="presentableId" value="Default" />
       <updated>1532114663832</updated>
       <workItem from="1532114669711" duration="598000" />
-      <workItem from="1532157167073" duration="10794000" />
+      <workItem from="1532157167073" duration="11296000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringCalculatorTest - 2018.07.21 at 11h 50m 59s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringCalculatorTest - 2018.07.21 at 11h 51m 04s.xml">
       <configuration name="StringCalculatorTest" configurationId="JUnit" />
     </history-entry>
@@ -399,12 +373,16 @@
     <history-entry file="StringCalculatorTest - 2018.07.21 at 12h 13m 23s.xml">
       <configuration name="StringCalculatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringCalculatorTest - 2018.07.21 at 12h 17m 44s.xml">
+      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11392000" />
+    <option name="totallyTimeSpent" value="11894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -416,11 +394,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="SonarQube" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -463,10 +441,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Palindrom/Palindrom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -482,34 +481,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="657" selection-start-line="657" selection-end-line="657" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="290">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>

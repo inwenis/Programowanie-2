@@ -9,7 +9,8 @@ public class Calc {
             return 0;
         }
         else {
-            inputTab = input.split(",");
+            String inputWithoutNewLine = input.replaceAll("\n", ",");
+            inputTab = inputWithoutNewLine.split(",");
             sum = Integer.parseInt(inputTab[0]);
             for(int i = 1; i < inputTab.length; i++){
                 sum+= Integer.parseInt(inputTab[i]);
