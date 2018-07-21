@@ -11,7 +11,11 @@ public class PalindromTest {
     public void ifPalindromTest(){
        String resultFromMethod = Palindrom.ifPalindrom("kajak");
        assertEquals(resultFromMethod, "To palindrom");
+    }
 
+    @Test (expected = NullPointerException.class)
+    public void ifPalindromNullTest() {
+        String resultFromMethod = Palindrom.ifPalindrom(null);
     }
 
 }
