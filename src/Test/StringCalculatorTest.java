@@ -53,4 +53,21 @@ public class StringCalculatorTest {
     }
     //aby zdefiniować separator w stringu wejściowym będzie coś takiego: "//;\n1;2" (suma 3)
 
+    @Test(expected = IllegalArgumentException.class)
+    public void checkingNegativesInInput() {
+        String input = "//;\n-1;8;-9;-5;";
+        int result = Calc.Sum(input);
+    }
+
+    @Test
+    public void shouldIllegalArgumentException() {
+        String input = "//;\n-1;8;-9;-5;";
+        try {
+            int result = Calc.Sum(input);
+            fail("Operation should result in IllegalArgumentException");
+        }
+        catch(IllegalArgumentException e) {
+            assertEquals(e.getMessage(), "Arugment cannot be a negative number. Negative numbers detected: [-1, -9, -5]");
+        }
+    }
 }

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbe8825-194b-4c00-be02-a611581cd9fe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" afterDir="false" />
     </list>
@@ -29,20 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calc.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+            <state relative-caret-position="306">
+              <caret line="36" column="138" selection-start-line="36" selection-start-column="138" selection-end-line="36" selection-end-column="138" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="324">
+              <caret line="69" column="111" selection-start-line="69" selection-start-column="111" selection-end-line="69" selection-end-column="111" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,8 +78,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/StringCalcuclator/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/StringCalcuclator/StringCalculator.java" />
-        <option value="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" />
+        <option value="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -168,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringCalculatorTest.userCanDefineOwnSeparator">
+  <component name="RunManager" selected="JUnit.StringCalculatorTest.shouldIllegalArgumentException">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -186,29 +190,6 @@
       <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StringCalculatorTest.AnyNumbersInInputReturnTheirSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
-      <option name="METHOD_NAME" value="AnyNumbersInInputReturnTheirSum" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -241,7 +222,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StringCalculatorTest.oneNumberInInputReturnsNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringCalculatorTest.emptyInutReturnsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -253,7 +234,30 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
       <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
-      <option name="METHOD_NAME" value="oneNumberInInputReturnsNumber" />
+      <option name="METHOD_NAME" value="emptyInutReturnsZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StringCalculatorTest.shouldIllegalArgumentException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
+      <option name="METHOD_NAME" value="shouldIllegalArgumentException" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -327,18 +331,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.StringCalculatorTest" />
-      <item itemvalue="JUnit.StringCalculatorTest.oneNumberInInputReturnsNumber" />
-      <item itemvalue="JUnit.StringCalculatorTest.AnyNumbersInInputReturnTheirSum" />
       <item itemvalue="JUnit.StringCalculatorTest.NewLineSeparatorInInputReturnTheirSum" />
       <item itemvalue="JUnit.StringCalculatorTest.userCanDefineOwnSeparator" />
+      <item itemvalue="JUnit.StringCalculatorTest.emptyInutReturnsZero" />
+      <item itemvalue="JUnit.StringCalculatorTest.shouldIllegalArgumentException" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringCalculatorTest.shouldIllegalArgumentException" />
+        <item itemvalue="JUnit.StringCalculatorTest" />
+        <item itemvalue="JUnit.StringCalculatorTest.emptyInutReturnsZero" />
         <item itemvalue="JUnit.StringCalculatorTest.userCanDefineOwnSeparator" />
         <item itemvalue="JUnit.StringCalculatorTest.NewLineSeparatorInInputReturnTheirSum" />
-        <item itemvalue="JUnit.StringCalculatorTest" />
-        <item itemvalue="JUnit.StringCalculatorTest.AnyNumbersInInputReturnTheirSum" />
-        <item itemvalue="JUnit.StringCalculatorTest.oneNumberInInputReturnsNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -353,29 +357,11 @@
       <option name="presentableId" value="Default" />
       <updated>1532114663832</updated>
       <workItem from="1532114669711" duration="598000" />
-      <workItem from="1532157167073" duration="13684000" />
+      <workItem from="1532157167073" duration="15695000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 51m 27s.xml">
-      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 52m 30s.xml">
-      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 52m 49s.xml">
-      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 54m 00s.xml">
-      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 54m 54s.xml">
-      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 57m 06s.xml">
-      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 57m 25s.xml">
       <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
     </history-entry>
@@ -388,9 +374,27 @@
     <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 12h 59m 17s.xml">
       <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 13h 02m 12s.xml">
+      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringCalculatorTest_userCanDefineOwnSeparator - 2018.07.21 at 13h 04m 19s.xml">
+      <configuration name="StringCalculatorTest.userCanDefineOwnSeparator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringCalculatorTest_emptyInutReturnsZero - 2018.07.21 at 13h 05m 17s.xml">
+      <configuration name="StringCalculatorTest.emptyInutReturnsZero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringCalculatorTest - 2018.07.21 at 13h 05m 23s.xml">
+      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringCalculatorTest - 2018.07.21 at 13h 18m 27s.xml">
+      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringCalculatorTest - 2018.07.21 at 13h 19m 46s.xml">
+      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14282000" />
+    <option name="totallyTimeSpent" value="16293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -539,20 +543,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="306">
+          <caret line="36" column="138" selection-start-line="36" selection-start-column="138" selection-end-line="36" selection-end-column="138" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        <state relative-caret-position="324">
+          <caret line="69" column="111" selection-start-line="69" selection-start-column="111" selection-end-line="69" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
