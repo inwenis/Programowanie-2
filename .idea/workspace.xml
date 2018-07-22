@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbe8825-194b-4c00-be02-a611581cd9fe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/FizzBazzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/FizzBazzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/FizzBazzTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -63,8 +60,8 @@
       <file leaf-file-name="FizzBazzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+            <state relative-caret-position="170">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -226,6 +223,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="FizzBazzTest.choosingThrees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
+      <option name="METHOD_NAME" value="choosingThrees" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="StringCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
@@ -295,29 +315,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StringCalculatorTest.ignoreBiggerThanThousand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
-      <option name="METHOD_NAME" value="ignoreBiggerThanThousand" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -358,18 +355,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.StringCalculatorTest" />
-      <item itemvalue="JUnit.StringCalculatorTest.ignoreBiggerThanThousand" />
       <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneChar" />
       <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneCombination" />
       <item itemvalue="JUnit.FizzBazzTest" />
+      <item itemvalue="JUnit.FizzBazzTest.choosingThrees" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FizzBazzTest" />
+        <item itemvalue="JUnit.FizzBazzTest.choosingThrees" />
         <item itemvalue="JUnit.StringCalculatorTest" />
         <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneCombination" />
         <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneChar" />
-        <item itemvalue="JUnit.StringCalculatorTest.ignoreBiggerThanThousand" />
       </list>
     </recent_temporary>
   </component>
@@ -385,44 +382,44 @@
       <updated>1532114663832</updated>
       <workItem from="1532114669711" duration="598000" />
       <workItem from="1532157167073" duration="24199000" />
-      <workItem from="1532242327514" duration="2430000" />
+      <workItem from="1532242327514" duration="3846000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringCalculatorTest_customSeparatorMoreThanOneCombination - 2018.07.21 at 15h 44m 56s.xml">
-      <configuration name="StringCalculatorTest.customSeparatorMoreThanOneCombination" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 05m 34s.xml">
+      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest_customSeparatorMoreThanOneCombination - 2018.07.21 at 15h 45m 01s.xml">
-      <configuration name="StringCalculatorTest.customSeparatorMoreThanOneCombination" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 05m 41s.xml">
+      <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.21 at 15h 45m 36s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 05m 50s.xml">
+      <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.21 at 15h 48m 56s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 05m 56s.xml">
+      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.21 at 15h 51m 23s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 06m 20s.xml">
+      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.21 at 15h 51m 56s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 06m 25s.xml">
+      <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.21 at 15h 54m 51s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 07m 14s.xml">
+      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.21 at 15h 55m 02s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 07m 20s.xml">
+      <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.22 at 09h 12m 42s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 07m 31s.xml">
+      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringCalculatorTest - 2018.07.22 at 09h 13m 16s.xml">
-      <configuration name="StringCalculatorTest" configurationId="JUnit" />
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 09m 15s.xml">
+      <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27227000" />
+    <option name="totallyTimeSpent" value="28643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -438,11 +435,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="SonarQube" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -469,7 +466,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url />
+          <url>file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java</url>
           <line>74</line>
           <properties class="Test.StringCalculatorTest" method="ignoreBiggerThanThousand">
             <option name="EMULATED" value="true" />
@@ -477,7 +474,7 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -607,14 +604,14 @@
     <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        <state relative-caret-position="170">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>
