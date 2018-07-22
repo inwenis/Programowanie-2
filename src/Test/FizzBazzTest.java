@@ -23,4 +23,12 @@ public class FizzBazzTest {
         String result = FizzBazz.countFizzBuzz(input1, input2);
         Assert.assertEquals("1 2 Fizz 4 Bazz Fizz 7 8 Fizz Bazz ", result);
     }
+
+    @Test
+    public void choosingNumbersDividedSimultaneouslyBy3AndFive() {
+        int input1 = 10;
+        int input2 = 16;
+        String result = FizzBazz.countFizzBuzz(input1, input2);
+        Assert.assertEquals("Bazz 11 Fizz 13 14 FizzBazz 16 ", result);
+    }
 }

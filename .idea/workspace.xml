@@ -48,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBazz.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBazz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBazzTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBazzTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="255">
+              <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -382,17 +382,11 @@
       <updated>1532114663832</updated>
       <workItem from="1532114669711" duration="598000" />
       <workItem from="1532157167073" duration="24199000" />
-      <workItem from="1532242327514" duration="3846000" />
+      <workItem from="1532242327514" duration="4106000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 05m 34s.xml">
-      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 05m 41s.xml">
-      <configuration name="FizzBazzTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBazzTest - 2018.07.22 at 10h 05m 50s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
@@ -417,9 +411,15 @@
     <history-entry file="FizzBazzTest - 2018.07.22 at 10h 09m 15s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 13m 52s.xml">
+      <configuration name="FizzBazzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 16m 58s.xml">
+      <configuration name="FizzBazzTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28643000" />
+    <option name="totallyTimeSpent" value="28903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -601,17 +601,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>

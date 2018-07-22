@@ -6,7 +6,10 @@ public class FizzBazz {
         StringBuilder countingResult = new StringBuilder();
 
         for (int i = input1; i <= input2; i++) {
-            if (i % 3 == 0) {
+            if (i % 3 == 0 && i % 5 == 0) {
+                countingResult.append("FizzBazz ");
+            }
+            else if (i % 3 == 0) {
                 countingResult.append("Fizz ");
             }
             else if (i % 5 == 0) {
