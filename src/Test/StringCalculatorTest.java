@@ -91,4 +91,6 @@ public class StringCalculatorTest {
         int result = Calc.Sum(input);
         Assert.assertEquals(15, result);
     }
+
+
 }
