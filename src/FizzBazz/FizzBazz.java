@@ -7,16 +7,16 @@ public class FizzBazz {
 
         for (int i = input1; i <= input2; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
-                countingResult.append("FizzBazz ");
+                countingResult.append("FizzBazz\n");
             }
             else if (i % 3 == 0) {
-                countingResult.append("Fizz ");
+                countingResult.append("Fizz\n");
             }
             else if (i % 5 == 0) {
-                countingResult.append("Bazz ");
+                countingResult.append("Bazz\n");
             }
             else {
-                countingResult.append(i + " ");
+                countingResult.append(i + "\n");
             }
         }
         return countingResult.toString();

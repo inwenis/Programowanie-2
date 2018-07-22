@@ -9,11 +9,19 @@ import static org.junit.Assert.*;
 public class FizzBazzTest {
 
     @Test
+    public void choosingThreesOutOfTwoNumbers() {
+        int input1 = 1;
+        int input2 = 2;
+        String result = FizzBazz.countFizzBuzz(input1, input2);
+        Assert.assertEquals("1\n2\n", result);
+    }
+
+    @Test
     public void choosingThrees() {
         int input1 = 1;
         int input2 = 4;
         String result = FizzBazz.countFizzBuzz(input1, input2);
-        Assert.assertEquals("1 2 Fizz 4 ", result);
+        Assert.assertEquals("1\n2\nFizz\n4\n", result);
     }
 
     @Test
@@ -21,7 +29,7 @@ public class FizzBazzTest {
         int input1 = 1;
         int input2 = 10;
         String result = FizzBazz.countFizzBuzz(input1, input2);
-        Assert.assertEquals("1 2 Fizz 4 Bazz Fizz 7 8 Fizz Bazz ", result);
+        Assert.assertEquals("1\n2\nFizz\n4\nBazz\nFizz\n7\n8\nFizz\nBazz\n", result);
     }
 
     @Test
@@ -29,6 +37,6 @@ public class FizzBazzTest {
         int input1 = 10;
         int input2 = 16;
         String result = FizzBazz.countFizzBuzz(input1, input2);
-        Assert.assertEquals("Bazz 11 Fizz 13 14 FizzBazz 16 ", result);
+        Assert.assertEquals("Bazz\n11\nFizz\n13\n14\nFizzBazz\n16\n", result);
     }
 }

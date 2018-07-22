@@ -48,20 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBazz.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBazz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBazzTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBazzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+            <state relative-caret-position="187">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -95,8 +95,8 @@
         <option value="$PROJECT_DIR$/src/FisBas/FisBas.java" />
         <option value="$PROJECT_DIR$/src/FisBas/FizzBazz.java" />
         <option value="$PROJECT_DIR$/src/FizzBazz/FizzBazzTest.java" />
-        <option value="$PROJECT_DIR$/src/Test/FizzBazzTest.java" />
         <option value="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" />
+        <option value="$PROJECT_DIR$/src/Test/FizzBazzTest.java" />
       </list>
     </option>
   </component>
@@ -223,6 +223,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
+      <option name="METHOD_NAME" value="choosingNumbersDividedSimultaneouslyBy3AndFive" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="FizzBazzTest.choosingThrees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
@@ -246,7 +269,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StringCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBazzTest.choosingThreesAndFives" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -257,31 +280,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StringCalculatorTest.customSeparatorMoreThanOneChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
-      <option name="METHOD_NAME" value="customSeparatorMoreThanOneChar" />
+      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
+      <option name="METHOD_NAME" value="choosingThreesAndFives" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -292,7 +292,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StringCalculatorTest.customSeparatorMoreThanOneCombination" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBazzTest.choosingThreesOutOfTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -303,8 +303,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.StringCalculatorTest" />
-      <option name="METHOD_NAME" value="customSeparatorMoreThanOneCombination" />
+      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
+      <option name="METHOD_NAME" value="choosingThreesOutOfTwoNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -354,19 +354,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.StringCalculatorTest" />
-      <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneChar" />
-      <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneCombination" />
       <item itemvalue="JUnit.FizzBazzTest" />
       <item itemvalue="JUnit.FizzBazzTest.choosingThrees" />
+      <item itemvalue="JUnit.FizzBazzTest.choosingThreesAndFives" />
+      <item itemvalue="JUnit.FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" />
+      <item itemvalue="JUnit.FizzBazzTest.choosingThreesOutOfTwoNumbers" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FizzBazzTest" />
+        <item itemvalue="JUnit.FizzBazzTest.choosingThreesOutOfTwoNumbers" />
+        <item itemvalue="JUnit.FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" />
+        <item itemvalue="JUnit.FizzBazzTest.choosingThreesAndFives" />
         <item itemvalue="JUnit.FizzBazzTest.choosingThrees" />
-        <item itemvalue="JUnit.StringCalculatorTest" />
-        <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneCombination" />
-        <item itemvalue="JUnit.StringCalculatorTest.customSeparatorMoreThanOneChar" />
       </list>
     </recent_temporary>
   </component>
@@ -382,44 +382,44 @@
       <updated>1532114663832</updated>
       <workItem from="1532114669711" duration="598000" />
       <workItem from="1532157167073" duration="24199000" />
-      <workItem from="1532242327514" duration="4106000" />
+      <workItem from="1532242327514" duration="5330000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 05m 50s.xml">
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 18m 16s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 05m 56s.xml">
-      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 06m 20s.xml">
-      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 06m 25s.xml">
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 20m 20s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 07m 14s.xml">
-      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 07m 20s.xml">
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 20m 42s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_choosingThrees - 2018.07.22 at 10h 07m 31s.xml">
-      <configuration name="FizzBazzTest.choosingThrees" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 09m 15s.xml">
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 22m 13s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 13m 52s.xml">
+    <history-entry file="FizzBazzTest_choosingThreesAndFives - 2018.07.22 at 10h 25m 45s.xml">
+      <configuration name="FizzBazzTest.choosingThreesAndFives" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 26m 16s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 16m 58s.xml">
+    <history-entry file="FizzBazzTest_choosingNumbersDividedSimultaneouslyBy3AndFive - 2018.07.22 at 10h 26m 50s.xml">
+      <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBazzTest_choosingNumbersDividedSimultaneouslyBy3AndFive - 2018.07.22 at 10h 27m 52s.xml">
+      <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBazzTest_choosingNumbersDividedSimultaneouslyBy3AndFive - 2018.07.22 at 10h 28m 58s.xml">
+      <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 29m 03s.xml">
       <configuration name="FizzBazzTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28903000" />
+    <option name="totallyTimeSpent" value="30127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -466,7 +466,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java</url>
+          <url />
           <line>74</line>
           <properties class="Test.StringCalculatorTest" method="ignoreBiggerThanThousand">
             <option name="EMULATED" value="true" />
@@ -601,17 +601,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
+    <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
