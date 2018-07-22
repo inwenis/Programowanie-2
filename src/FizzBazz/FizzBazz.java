@@ -9,10 +9,10 @@ public class FizzBazz {
             if (i % 3 == 0 && i % 5 == 0) {
                 countingResult.append("FizzBazz\n");
             }
-            else if (i % 3 == 0) {
+            else if (i % 3 == 0 || Integer.toString(i).contains("3")) {
                 countingResult.append("Fizz\n");
             }
-            else if (i % 5 == 0) {
+            else if (i % 5 == 0 || Integer.toString(i).contains("5")) {
                 countingResult.append("Bazz\n");
             }
             else {
