@@ -2,6 +2,7 @@ package Diamond;
 
 import java.util.Scanner;
 
+//I misunderstood a bit the task; in this version letters go one after another according to the alphabet
 public class Diamond {
     public static void main(String[] args) {
 
@@ -14,7 +15,7 @@ public class Diamond {
         int h = diamond.changeToAscii(input);
 
         printDiamond(h);
-        
+
     }
 
 
