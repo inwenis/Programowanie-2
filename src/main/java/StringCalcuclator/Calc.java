@@ -58,7 +58,7 @@ public class Calc {
             }
 
             // why adding first number outside of loop?
-            sum = Integer.parseInt(inputTab[0]);
+            sum = Integer.parseInt(inputTab[0]); // did you test input: "1000,1,2", result should be 3, but will be 1003
             for (int i = 1; i < inputTab.length; i++) { // can be replaced with foreach
                 if (Integer.parseInt(inputTab[i])<1000){
                     sum += Integer.parseInt(inputTab[i]);
