@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbe8825-194b-4c00-be02-a611581cd9fe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programowanie_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programowanie_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/Palindrom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/RunnerPalindrom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Test/PalindromTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debugowanie/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debugowanie/RemovePeople.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debugowanie/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diamond/Diamond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diamond/DiamondWithRevertedLetters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrom/Palindrom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrom/RunnerPalindrom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/FizzBazzTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/PalindromTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,16 +33,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiamondWithRevertedLettersTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiamondWithRevertedLettersTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test/DiamondWithRevertedLettersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#402#403#0" expanded="true" />
                 <element signature="e#455#456#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnerPalindrom.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Palindrom/RunnerPalindrom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -175,6 +165,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Diamond" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Repozytoria z moim kodem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Palindrom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
@@ -422,7 +420,7 @@
       <workItem from="1532242327514" duration="15859000" />
       <workItem from="1532328447192" duration="22633000" />
       <workItem from="1532415876428" duration="1092000" />
-      <workItem from="1532503091657" duration="4578000" />
+      <workItem from="1532503091657" duration="5663000" />
     </task>
     <task id="LOCAL-00001" summary="1st version of task: subsequent letters till the end of diamond">
       <created>1532373374572</created>
@@ -442,24 +440,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 11h 13m 18s.xml">
-      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 11h 13m 55s.xml">
-      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 11h 14m 09s.xml">
-      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiamondWithRevertedLettersTest_changeLetterIntoHeight1 - 2018.07.25 at 11h 46m 40s.xml">
-      <configuration name="DiamondWithRevertedLettersTest.changeLetterIntoHeight1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiamondWithRevertedLettersTest_changeLetterIntoHeight1 - 2018.07.25 at 11h 46m 47s.xml">
-      <configuration name="DiamondWithRevertedLettersTest.changeLetterIntoHeight1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiamondWithRevertedLettersTest_changeLetterIntoHeight1 - 2018.07.25 at 11h 46m 57s.xml">
-      <configuration name="DiamondWithRevertedLettersTest.changeLetterIntoHeight1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DiamondWithRevertedLettersTest_returnNextLetter - 2018.07.25 at 11h 48m 52s.xml">
       <configuration name="DiamondWithRevertedLettersTest.returnNextLetter" configurationId="JUnit" />
     </history-entry>
@@ -472,13 +452,30 @@
     <history-entry file="DiamondWithRevertedLettersTest_returnPreviousLetter - 2018.07.25 at 11h 49m 33s.xml">
       <configuration name="DiamondWithRevertedLettersTest.returnPreviousLetter" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DiamondWithRevertedLettersTest_returnPreviousLetter - 2018.07.25 at 11h 50m 54s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.returnPreviousLetter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DiamondWithRevertedLettersTest_returnPreviousLetter2 - 2018.07.25 at 11h 50m 58s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.returnPreviousLetter2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DiamondWithRevertedLettersTest_returnPreviousLetter2 - 2018.07.25 at 11h 51m 12s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.returnPreviousLetter2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 11h 51m 19s.xml">
+      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 12h 03m 48s.xml">
+      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 12h 03m 57s.xml">
+      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68959000" />
+    <option name="totallyTimeSpent" value="70044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -490,11 +487,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2519685" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2519685" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="SonarQube" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -526,7 +523,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url />
+          <url>file://$PROJECT_DIR$/src/main/java/Test/StringCalculatorTest.java</url>
           <line>74</line>
           <properties class="Test.StringCalculatorTest" method="ignoreBiggerThanThousand">
             <option name="EMULATED" value="true" />
@@ -632,13 +629,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Palindrom/IfPalindrom2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrom/RunnerPalindrom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -823,13 +813,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test/DiamondWithRevertedLettersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#402#403#0" expanded="true" />
             <element signature="e#455#456#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrom/RunnerPalindrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
