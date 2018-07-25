@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbe8825-194b-4c00-be02-a611581cd9fe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/FizzBazzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/FizzBazzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programowanie_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programowanie_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/Palindrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Palindrom/RunnerPalindrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programowanie_2/Test/PalindromTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Debugowanie/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Debugowanie/RemovePeople.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Debugowanie/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Diamond/Diamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Diamond/DiamondWithRevertedLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrom/Palindrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrom/RunnerPalindrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringCalcuclator/Calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/FizzBazzTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/PalindromTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/StringCalculatorTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,53 +34,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calc.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
+      <file leaf-file-name="Diamond.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/Diamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="17">
+              <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondWithRevertedLetters.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/DiamondWithRevertedLetters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1140">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondWithRevertedLettersTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test/DiamondWithRevertedLettersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Palindrom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Palindrom/Palindrom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FizzBazz.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FizzBazzTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="47" column="89" selection-start-line="47" selection-start-column="89" selection-end-line="47" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -97,6 +97,19 @@
         <option value="$PROJECT_DIR$/src/FizzBazz/FizzBazzTest.java" />
         <option value="$PROJECT_DIR$/src/FizzBazz/FizzBazz.java" />
         <option value="$PROJECT_DIR$/src/Test/FizzBazzTest.java" />
+        <option value="$PROJECT_DIR$/src/FizzBazz/FizzBazzSwitch.java" />
+        <option value="$PROJECT_DIR$/src/Debugowanie/Person.java" />
+        <option value="$PROJECT_DIR$/src/Debugowanie/RemovePeople.java" />
+        <option value="$PROJECT_DIR$/src/Debugowanie/Student.java" />
+        <option value="$PROJECT_DIR$/src/Notes.java" />
+        <option value="$PROJECT_DIR$/src/Diamond/Diamond2.java" />
+        <option value="$PROJECT_DIR$/src/Notes2.java" />
+        <option value="$PROJECT_DIR$/src/Diamond/Diamond.java" />
+        <option value="$PROJECT_DIR$/src/Diamond/DiamondWithRevertedLetters.java" />
+        <option value="$PROJECT_DIR$/src/Test/DiamondWithRevertedLettersTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Diamond/DiamondWithRevertedLetters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/DiamondWithRevertedLettersTest.java" />
       </list>
     </option>
   </component>
@@ -120,7 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -138,31 +151,50 @@
               <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Repozytoria z moim kodem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FizzBazz" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Repozytoria z moim kodem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Palindrom" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Repozytoria z moim kodem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StringCalcuclator" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Debugowanie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Repozytoria z moim kodem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Diamond" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Repozytoria z moim kodem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programowanie_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Repozytoria z moim kodem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,15 +205,20 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Test" />
       <recent name="FizzBazz" />
       <recent name="StringCalcuclator" />
       <recent name="Palindrom" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Diamond" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,11 +233,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBazzTest">
+  <component name="RunManager" selected="JUnit.DiamondWithRevertedLettersTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FizzBazzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiamondWithRevertedLettersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -211,7 +248,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
+      <option name="MAIN_CLASS_NAME" value="Test.DiamondWithRevertedLettersTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -223,7 +260,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiamondWithRevertedLettersTest.changeLetterIntoHeight1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -234,8 +271,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
-      <option name="METHOD_NAME" value="choosingNumbersDividedSimultaneouslyBy3AndFive" />
+      <option name="MAIN_CLASS_NAME" value="Test.DiamondWithRevertedLettersTest" />
+      <option name="METHOD_NAME" value="changeLetterIntoHeight1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -246,7 +283,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FizzBazzTest.choosingThreesAndFives" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiamondWithRevertedLettersTest.returnNextLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -257,8 +294,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
-      <option name="METHOD_NAME" value="choosingThreesAndFives" />
+      <option name="MAIN_CLASS_NAME" value="Test.DiamondWithRevertedLettersTest" />
+      <option name="METHOD_NAME" value="returnNextLetter" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -269,7 +306,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FizzBazzTest.choosingThreesOutOfTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiamondWithRevertedLettersTest.returnPreviousLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -280,8 +317,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
-      <option name="METHOD_NAME" value="choosingThreesOutOfTwoNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Test.DiamondWithRevertedLettersTest" />
+      <option name="METHOD_NAME" value="returnPreviousLetter" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -292,7 +329,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FizzBazzTest.numbersContaining3Or5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiamondWithRevertedLettersTest.returnPreviousLetter2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie_2" />
       <extension name="coverage">
         <pattern>
@@ -303,8 +340,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.FizzBazzTest" />
-      <option name="METHOD_NAME" value="numbersContaining3Or5" />
+      <option name="MAIN_CLASS_NAME" value="Test.DiamondWithRevertedLettersTest" />
+      <option name="METHOD_NAME" value="returnPreviousLetter2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -354,19 +391,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FizzBazzTest" />
-      <item itemvalue="JUnit.FizzBazzTest.choosingThreesAndFives" />
-      <item itemvalue="JUnit.FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" />
-      <item itemvalue="JUnit.FizzBazzTest.choosingThreesOutOfTwoNumbers" />
-      <item itemvalue="JUnit.FizzBazzTest.numbersContaining3Or5" />
+      <item itemvalue="JUnit.DiamondWithRevertedLettersTest" />
+      <item itemvalue="JUnit.DiamondWithRevertedLettersTest.changeLetterIntoHeight1" />
+      <item itemvalue="JUnit.DiamondWithRevertedLettersTest.returnNextLetter" />
+      <item itemvalue="JUnit.DiamondWithRevertedLettersTest.returnPreviousLetter" />
+      <item itemvalue="JUnit.DiamondWithRevertedLettersTest.returnPreviousLetter2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzBazzTest" />
-        <item itemvalue="JUnit.FizzBazzTest.numbersContaining3Or5" />
-        <item itemvalue="JUnit.FizzBazzTest.choosingThreesOutOfTwoNumbers" />
-        <item itemvalue="JUnit.FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" />
-        <item itemvalue="JUnit.FizzBazzTest.choosingThreesAndFives" />
+        <item itemvalue="JUnit.DiamondWithRevertedLettersTest" />
+        <item itemvalue="JUnit.DiamondWithRevertedLettersTest.returnPreviousLetter2" />
+        <item itemvalue="JUnit.DiamondWithRevertedLettersTest.returnPreviousLetter" />
+        <item itemvalue="JUnit.DiamondWithRevertedLettersTest.returnNextLetter" />
+        <item itemvalue="JUnit.DiamondWithRevertedLettersTest.changeLetterIntoHeight1" />
       </list>
     </recent_temporary>
   </component>
@@ -382,44 +419,62 @@
       <updated>1532114663832</updated>
       <workItem from="1532114669711" duration="598000" />
       <workItem from="1532157167073" duration="24199000" />
-      <workItem from="1532242327514" duration="6121000" />
+      <workItem from="1532242327514" duration="15859000" />
+      <workItem from="1532328447192" duration="22633000" />
+      <workItem from="1532415876428" duration="1092000" />
+      <workItem from="1532503091657" duration="4578000" />
     </task>
+    <task id="LOCAL-00001" summary="1st version of task: subsequent letters till the end of diamond">
+      <created>1532373374572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532373374572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd version of task: subsequent letters till the widest part of diamond; later on go backwards">
+      <created>1532373418888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532373418888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBazzTest_choosingThreesAndFives - 2018.07.22 at 10h 25m 45s.xml">
-      <configuration name="FizzBazzTest.choosingThreesAndFives" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 11h 13m 18s.xml">
+      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 26m 16s.xml">
-      <configuration name="FizzBazzTest" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 11h 13m 55s.xml">
+      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_choosingNumbersDividedSimultaneouslyBy3AndFive - 2018.07.22 at 10h 26m 50s.xml">
-      <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest - 2018.07.25 at 11h 14m 09s.xml">
+      <configuration name="DiamondWithRevertedLettersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_choosingNumbersDividedSimultaneouslyBy3AndFive - 2018.07.22 at 10h 27m 52s.xml">
-      <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest_changeLetterIntoHeight1 - 2018.07.25 at 11h 46m 40s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.changeLetterIntoHeight1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_choosingNumbersDividedSimultaneouslyBy3AndFive - 2018.07.22 at 10h 28m 58s.xml">
-      <configuration name="FizzBazzTest.choosingNumbersDividedSimultaneouslyBy3AndFive" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest_changeLetterIntoHeight1 - 2018.07.25 at 11h 46m 47s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.changeLetterIntoHeight1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 29m 03s.xml">
-      <configuration name="FizzBazzTest" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest_changeLetterIntoHeight1 - 2018.07.25 at 11h 46m 57s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.changeLetterIntoHeight1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_choosingThreesOutOfTwoNumbers - 2018.07.22 at 10h 38m 55s.xml">
-      <configuration name="FizzBazzTest.choosingThreesOutOfTwoNumbers" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest_returnNextLetter - 2018.07.25 at 11h 48m 52s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.returnNextLetter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest - 2018.07.22 at 10h 39m 01s.xml">
-      <configuration name="FizzBazzTest" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest_returnNextLetter - 2018.07.25 at 11h 49m 04s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.returnNextLetter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_numbersContaining3Or5 - 2018.07.22 at 10h 47m 58s.xml">
-      <configuration name="FizzBazzTest.numbersContaining3Or5" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest_returnNextLetter - 2018.07.25 at 11h 49m 13s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.returnNextLetter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBazzTest_numbersContaining3Or5 - 2018.07.22 at 10h 51m 57s.xml">
-      <configuration name="FizzBazzTest.numbersContaining3Or5" configurationId="JUnit" />
+    <history-entry file="DiamondWithRevertedLettersTest_returnPreviousLetter - 2018.07.25 at 11h 49m 33s.xml">
+      <configuration name="DiamondWithRevertedLettersTest.returnPreviousLetter" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30918000" />
+    <option name="totallyTimeSpent" value="68959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -435,7 +490,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2519685" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -462,6 +517,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st version of task: subsequent letters till the end of diamond" />
+    <MESSAGE value="2nd version of task: subsequent letters till the widest part of diamond; later on go backwards" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd version of task: subsequent letters till the widest part of diamond; later on go backwards" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -474,21 +534,94 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="38" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.grade.replace(&quot;-&quot;, &quot;+&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.grade.replace(&quot;-&quot;, &quot;+&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/DiamondWithRevertedLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/DiamondWithRevertedLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Debugowanie/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Debugowanie/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Debugowanie/RemovePeople.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringCalcuclator/Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
           <caret line="91" column="40" lean-forward="true" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
@@ -499,7 +632,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Palindrom/IfPalindrom2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Palindrom/RunnerPalindrom.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrom/RunnerPalindrom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -527,15 +660,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/PalindromTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/PalindromTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -574,17 +702,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringCalcuclator/Calc.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringCalcuclator/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/StringCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="24" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
@@ -594,24 +719,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrom/Palindrom.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrom/Palindrom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazz.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/FizzBazzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="239">
+          <caret line="49" column="84" selection-start-line="49" selection-start-column="84" selection-end-line="49" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/FizzBazzTest.java">
+    <entry file="file://$PROJECT_DIR$/src/FizzBazz/FizzBazzSwitch.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/FizzBazz/FizzBazz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="47" column="89" selection-start-line="47" selection-start-column="89" selection-end-line="47" selection-end-column="89" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Notes/Notes.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Debugowanie/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Debugowanie/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Diamond/Diamond2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Notes2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Notes.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie_2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Debugowanie/RemovePeople.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.1.1/JUnitParams-1.1.1.jar!/junitparams/internal/parameters/ParametersReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.1.1/JUnitParams-1.1.1-sources.jar!/junitparams/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.1.1/JUnitParams-1.1.1-sources.jar!/junitparams/internal/parameters/ParametersReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond/DiamondWithRevertedLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1140">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/DiamondWithRevertedLettersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

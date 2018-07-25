@@ -15,15 +15,14 @@ public class DiamondWithRevertedLetters {
         int h = diamond.changeToAscii(input);
 
         printDiamond(h);
-
     }
 
 
     public int changeToAscii(String input) {
         String inputUpperCase = input.toUpperCase(); //in case a user chooses lower case letter I change every letter to upper case
         char charUpperCase = inputUpperCase.charAt(0);
-        int hight = charUpperCase - 64;
-        return hight;
+        int height = charUpperCase - 64;
+        return height;
     }
 
     public static void printDiamond(int h) {
