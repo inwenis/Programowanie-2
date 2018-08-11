@@ -21,11 +21,11 @@ public class DiamondWithRevertedLetters {
     public int changeToAscii(String input) {
         String inputUpperCase = input.toUpperCase(); //in case a user chooses lower case letter I change every letter to upper case
         char charUpperCase = inputUpperCase.charAt(0);
-        int height = charUpperCase - 64;
+        int height = charUpperCase - 64; // you can use 'A' insted of 64
         return height;
     }
 
-    public static void printDiamond(int h) {
+    public static void printDiamond(int h) { // you could wrap this method in something that takes a char as input
         char letter = 'A';
         int hBackUp = h;
         StringBuilder diamondBuilding = new StringBuilder();
@@ -33,14 +33,17 @@ public class DiamondWithRevertedLetters {
         //building top of the diamond
         for (int j = 0; j < h; j++) {
 
+            // extract to leftSpaces()?
             for (int i = hBackUp; i > 0; i--) {
                 diamondBuilding.append(" ");
             }
             hBackUp -= 1;
 
-            int counter = 1;
+            
+            int counter = 1; // why do you need both counter and k?
+            // extract (2 * (h - hBackUp) - 1) to variable and give name? maybe width?
             for (int k = 1; k <= (2 * (h - hBackUp) - 1); k ++) {
-                if (counter == 1 || counter == (2 * (h - hBackUp) - 1)) {
+                if (counter == 1 || counter == (2 * (h - hBackUp) - 1)) { // extract to isLeftEdge() || isRightEdge()?
                     diamondBuilding.append(letter);
                     counter++;
                 }
@@ -55,6 +58,9 @@ public class DiamondWithRevertedLetters {
 
         letter = returnPreviousLetter(letter, 2);
         //building bottom of the diamond
+        // insted of comments maybebe extract methods
+        // buildTop()
+        // buildBottom()?
         hBackUp = h - 1;
         for (int m = 0; m < h - 1; m++) {
 
@@ -84,7 +90,7 @@ public class DiamondWithRevertedLetters {
 
 
 
-    public static char returnNextLetter (char letter) {
+    public static char returnNextLetter (char letter) { // maybe this can be simplified with return letter + 1? or return (char)(letter + 1)
         String stringLetter = Character.toString(letter);
         int charValue = stringLetter.charAt(0);
         String stringNextLetter = String.valueOf((char) (charValue + 1));
@@ -92,7 +98,7 @@ public class DiamondWithRevertedLetters {
         return nextLetter;
     }
 
-    public static char returnPreviousLetter (char letter, int numberOfPositions) {
+    public static char returnPreviousLetter (char letter, int numberOfPositions) { //same as above
         String stringLetter = Character.toString(letter);
         int charValue = stringLetter.charAt(0);
         String stringNextLetter = String.valueOf((char) (charValue - numberOfPositions));
